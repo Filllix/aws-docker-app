@@ -1,2 +1,2 @@
 FROM nginx:latest
-COPY . /usr/share/mgimx/html
+COPY . /usr/share/nginx/html
